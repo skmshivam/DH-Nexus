@@ -1,0 +1,39 @@
+# DH Nexus - Robots.txt
+# Allow all search engines to crawl our site for maximum visibility
+
+User-agent: *
+Allow: /
+Allow: /jobs
+Allow: /talent-directory
+Allow: /global-dh
+Allow: /what-is-dh
+Allow: /for-recruiters
+Allow: /resources
+Allow: /events
+
+# Disallow admin and internal pages
+Disallow: /admin
+Disallow: /admin/*
+
+# Sitemap location
+Sitemap: https://dhnexus.com/sitemap.xml
+
+# Specific crawlers
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 5
+
+# General crawl-delay for other bots
+User-agent: *
+Crawl-delay: 5
+
+# Host preference
+Host: https://dhnexus.com
