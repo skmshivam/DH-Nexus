@@ -322,7 +322,7 @@ Warning: Yellow/Orange (#eab308 to #f97316) - Emerging Trends
 - [Talent Directory](/talent-directory)
 - [Post a Job](/jobs)
 - [Partner With Us](/partner)
-- [Hire Us Form](https://forms.gle/HpQN3t9MVy2q2LK98)
+- [Hire Us Form](https://forms.gle/6DrH5bSRQAuPqE997)
 
 ### For Universities:
 - [Global DH Programs](/global-dh)

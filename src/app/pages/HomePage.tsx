@@ -305,7 +305,7 @@ export function HomePage() {
             ))}
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://forms.gle/HpQN3t9MVy2q2LK98" target="_blank" rel="noopener noreferrer"
+            <a href="https://forms.gle/6DrH5bSRQAuPqE997" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-7 py-3.5 bg-indigo-600 hover:bg-indigo-500 text-white font-semibold rounded-xl transition-all text-sm">
               <Briefcase className="w-4 h-4" />
               Register Hiring Interest

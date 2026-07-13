@@ -241,7 +241,7 @@ export function DHNexusPeople() {
           <p className="text-slate-600 mb-6 max-w-xl mx-auto">
             We welcome interns, collaborators, and volunteers who are passionate about Digital Humanities. Whether you're a student, researcher, or professional — there's a place for you here.
           </p>
-          <a href="https://forms.gle/bhv57KaTLdVehiDg9" target="_blank" rel="noopener noreferrer"
+          <a href="https://forms.gle/uwmUJyDbyq5VVLUx7" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-semibold rounded-xl transition-all hover:scale-105 shadow-lg shadow-indigo-200">
             <Users className="w-5 h-5" />
             Apply to Join the Team

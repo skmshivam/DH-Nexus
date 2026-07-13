@@ -408,7 +408,7 @@ export function HiringMarketplace() {
                 Join 150+ DH professionals in our global talent network. Create your profile today and let opportunities come to you.
               </p>
               <a
-                href="https://forms.gle/BRnw51wzHxXp9jVS6"
+                href="https://forms.gle/h8wi7UhxjsYsoqnMA"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white text-indigo-600 hover:bg-blue-50 px-10 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl text-lg"
@@ -609,7 +609,7 @@ export function HiringMarketplace() {
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <a
-                  href="https://forms.gle/71BLiGAPnbvDaFfD6"
+                  href="https://forms.gle/6DrH5bSRQAuPqE997"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-white text-purple-600 hover:bg-purple-50 px-10 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl text-lg"

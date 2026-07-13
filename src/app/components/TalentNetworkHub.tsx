@@ -37,7 +37,7 @@ export function TalentNetworkHub() {
             <p className="text-blue-100 text-sm mb-5">
               Register your profile, showcase your projects and skills, and get discovered by recruiters looking for DH talent.
             </p>
-            <a href="https://forms.gle/BRnw51wzHxXp9jVS6" target="_blank" rel="noopener noreferrer"
+            <a href="https://forms.gle/h8wi7UhxjsYsoqnMA" target="_blank" rel="noopener noreferrer"
               className="text-sm text-cyan-300 hover:text-cyan-200 inline-flex items-center gap-1 font-medium">
               Join the Network <ArrowRight className="w-4 h-4" />
             </a>
@@ -51,7 +51,7 @@ export function TalentNetworkHub() {
             <p className="text-blue-100 text-sm mb-5">
               Browse talent profiles, connect with DH graduates who combine technical and humanistic skills, and post opportunities.
             </p>
-            <a href="https://forms.gle/71BLiGAPnbvDaFfD6" target="_blank" rel="noopener noreferrer"
+            <a href="https://forms.gle/6DrH5bSRQAuPqE997" target="_blank" rel="noopener noreferrer"
               className="text-sm text-cyan-300 hover:text-cyan-200 inline-flex items-center gap-1 font-medium">
               Register as Recruiter <ArrowRight className="w-4 h-4" />
             </a>
@@ -146,12 +146,12 @@ export function TalentNetworkHub() {
               Whether you're a student building your DH career, a company seeking interdisciplinary talent, or a researcher wanting to collaborate — DH Nexus is your platform.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <a href="https://forms.gle/BRnw51wzHxXp9jVS6" target="_blank" rel="noopener noreferrer"
+              <a href="https://forms.gle/927FLPxgbi7ww78K9" target="_blank" rel="noopener noreferrer"
                 className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white px-10 py-4 rounded-xl transition-all hover:scale-105 inline-flex items-center gap-2 shadow-xl text-lg font-semibold">
                 <UserPlus className="w-5 h-5" />
                 Register as Student
               </a>
-              <a href="https://forms.gle/71BLiGAPnbvDaFfD6" target="_blank" rel="noopener noreferrer"
+              <a href="https://forms.gle/6DrH5bSRQAuPqE997" target="_blank" rel="noopener noreferrer"
                 className="bg-white border-2 border-indigo-600 text-indigo-600 hover:bg-indigo-50 px-10 py-4 rounded-xl transition-all inline-flex items-center gap-2 text-lg font-semibold">
                 <Briefcase className="w-5 h-5" />
                 Register as Recruiter

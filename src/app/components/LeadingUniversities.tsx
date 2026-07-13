@@ -539,7 +539,7 @@ export function LeadingUniversities() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://forms.gle/BRnw51wzHxXp9jVS6"
+              href="https://forms.gle/927FLPxgbi7ww78K9"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white text-indigo-600 hover:bg-blue-50 px-10 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl text-lg font-semibold"

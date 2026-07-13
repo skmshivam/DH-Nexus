@@ -101,7 +101,7 @@ export function RegisterAndHire() {
                 </ul>
                 
                 <a 
-                  href="https://forms.gle/BRnw51wzHxXp9jVS6"
+                  href="https://forms.gle/h8wi7UhxjsYsoqnMA"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full bg-gradient-to-r from-cyan-400 to-blue-500 hover:from-cyan-300 hover:to-blue-400 text-white px-8 py-4 rounded-xl transition-all shadow-lg inline-flex items-center justify-center gap-2 text-lg transform hover:scale-105"
@@ -195,7 +195,7 @@ export function RegisterAndHire() {
                   <li>• Collaboration Interests (Events, Research, etc.)</li>
                 </ul>
                 <a 
-                  href="https://forms.gle/71BLiGAPnbvDaFfD6" 
+                  href="https://forms.gle/6DrH5bSRQAuPqE997" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full bg-gradient-to-r from-yellow-400 to-orange-400 hover:from-yellow-300 hover:to-orange-300 text-slate-900 py-4 rounded-xl transition-all transform hover:scale-105 text-center inline-flex items-center justify-center gap-2 shadow-xl"

@@ -39,7 +39,7 @@ export function WhatIsDHPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://forms.gle/BRnw51wzHxXp9jVS6"
+              href="https://forms.gle/927FLPxgbi7ww78K9"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-400 to-blue-500 hover:from-cyan-300 hover:to-blue-400 text-slate-900 px-8 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl"

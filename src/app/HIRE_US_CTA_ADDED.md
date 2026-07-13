@@ -11,7 +11,7 @@
 
 A **stunning, conversion-optimized hiring section** has been added to the TOP of 3 key pages with your Google Form link:
 
-**Google Form URL:** `https://forms.gle/HpQN3t9MVy2q2LK98`
+**Google Form URL:** `https://forms.gle/6DrH5bSRQAuPqE997`
 
 ---
 
@@ -219,7 +219,7 @@ Submit + Conversion! ✅
 
 ### **Google Form Link:**
 ```html
-href="https://forms.gle/HpQN3t9MVy2q2LK98"
+href="https://forms.gle/6DrH5bSRQAuPqE997"
 target="_blank"
 rel="noopener noreferrer"
 ```

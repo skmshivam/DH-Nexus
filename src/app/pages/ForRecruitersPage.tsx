@@ -81,7 +81,7 @@ export function ForRecruitersPage() {
             {/* CTA Button */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://forms.gle/HpQN3t9MVy2q2LK98"
+                href="https://forms.gle/6DrH5bSRQAuPqE997"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center gap-3 px-10 py-5 bg-gradient-to-r from-cyan-600 to-blue-600 text-white text-lg font-semibold rounded-xl hover:from-cyan-500 hover:to-blue-500 transition-all duration-300 shadow-2xl hover:shadow-cyan-500/50 hover:scale-105"
@@ -138,7 +138,7 @@ export function ForRecruitersPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://forms.gle/71BLiGAPnbvDaFfD6"
+              href="https://forms.gle/6DrH5bSRQAuPqE997"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white text-emerald-600 hover:bg-emerald-50 px-10 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl text-lg"

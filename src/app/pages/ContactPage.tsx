@@ -68,7 +68,7 @@ export function ContactPage() {
                 Interested in hiring DH talent, partnerships, or collaborations?
               </p>
               <a
-                href="https://forms.gle/71BLiGAPnbvDaFfD6"
+                href="https://forms.gle/6DrH5bSRQAuPqE997"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-xl transition-all w-full justify-center"
@@ -115,7 +115,7 @@ export function ContactPage() {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <a
-              href="https://forms.gle/BRnw51wzHxXp9jVS6"
+              href="https://forms.gle/927FLPxgbi7ww78K9"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-xl p-6 shadow-md border border-slate-200 hover:border-cyan-300 hover:shadow-lg transition-all group"
@@ -129,7 +129,7 @@ export function ContactPage() {
             </a>
 
             <a
-              href="https://forms.gle/71BLiGAPnbvDaFfD6"
+              href="https://forms.gle/6DrH5bSRQAuPqE997"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-xl p-6 shadow-md border border-slate-200 hover:border-purple-300 hover:shadow-lg transition-all group"
@@ -143,7 +143,7 @@ export function ContactPage() {
             </a>
 
             <a
-              href="https://forms.gle/cRF4MUkGMzSsLocW8"
+              href="https://forms.gle/VqqeGB2EvyXym5UW7"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-xl p-6 shadow-md border border-slate-200 hover:border-pink-300 hover:shadow-lg transition-all group"
@@ -342,7 +342,7 @@ export function ContactPage() {
               </div>
 
               <a
-                href="https://forms.gle/UiA7fbUyR1eGR3jB8"
+                href="https://forms.gle/q3GHqDS7GV5G6G446"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white px-8 py-4 rounded-xl transition-all transform hover:scale-105 shadow-lg w-full text-lg font-semibold"
@@ -392,7 +392,7 @@ export function ContactPage() {
               </div>
 
               <a
-                href="https://forms.gle/UiA7fbUyR1eGR3jB8"
+                href="https://forms.gle/q3GHqDS7GV5G6G446"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-8 py-4 rounded-xl transition-all transform hover:scale-105 shadow-lg w-full text-lg font-semibold"
@@ -420,7 +420,7 @@ export function ContactPage() {
             <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
               {/* Workshop Registration Form */}
               <a
-                href="https://forms.gle/KWnkAUwFTBeYgH4Z9"
+                href="https://forms.gle/a2iwwhsHKHMKBu9t9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group bg-gradient-to-br from-yellow-500 to-amber-600 p-8 rounded-2xl hover:shadow-2xl transition-all transform hover:scale-105 border-2 border-yellow-300"

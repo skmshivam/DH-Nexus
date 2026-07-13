@@ -64,7 +64,7 @@ const sessions = [
     ],
     tags: ['#DHNexus', '#Webinar', '#GlobalDH', '#CareerGrowth'],
     ctaLabel: 'Register Now',
-    ctaHref: 'https://forms.gle/KWnkAUwFTBeYgH4Z9',
+    ctaHref: 'https://forms.gle/a2iwwhsHKHMKBu9t9',
     badge: 'LIVE NOW',
     badgeColor: 'from-red-500 to-rose-500',
     isLive: true,

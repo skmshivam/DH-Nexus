@@ -247,7 +247,7 @@ export function HelpUsBuildPage() {
             {/* CTA Button */}
             <div className="text-center">
               <a
-                href="https://forms.gle/cRF4MUkGMzSsLocW8"
+                href="https://forms.gle/VqqeGB2EvyXym5UW7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white px-12 py-5 rounded-2xl transition-all transform hover:scale-105 shadow-2xl text-lg"
@@ -330,7 +330,7 @@ export function HelpUsBuildPage() {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a
-                href="https://forms.gle/bhv57KaTLdVehiDg9"
+                href="https://forms.gle/uwmUJyDbyq5VVLUx7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-400 to-blue-500 hover:from-cyan-300 hover:to-blue-400 text-slate-900 px-10 py-4 rounded-xl transition-all transform hover:scale-105 shadow-xl text-lg font-semibold"
@@ -341,7 +341,7 @@ export function HelpUsBuildPage() {
               </a>
               
               <a
-                href="https://forms.gle/cRF4MUkGMzSsLocW8"
+                href="https://forms.gle/VqqeGB2EvyXym5UW7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm border-2 border-white hover:bg-white/30 text-white px-8 py-4 rounded-xl transition-all text-lg"

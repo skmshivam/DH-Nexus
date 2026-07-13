@@ -348,11 +348,11 @@ export function AdminDashboardPage() {
                 <h3 className="text-lg font-bold text-slate-900 mb-4">📋 Google Forms (All Working)</h3>
                 <div className="space-y-3">
                   {[
-                    { name: 'Student Registration', url: 'https://forms.gle/BRnw51wzHxXp9jVS6', pages: 'Contact, Join Network' },
-                    { name: 'Employer Registration', url: 'https://forms.gle/71BLiGAPnbvDaFfD6', pages: 'Contact, For Recruiters' },
-                    { name: 'Feedback & Ideas Form', url: 'https://forms.gle/cRF4MUkGMzSsLocW8', pages: 'Help Us Build' },
-                    { name: 'Workshop Registration', url: 'https://forms.gle/KWnkAUwFTBeYgH4Z9', pages: 'Contact (Event section)' },
-                    { name: 'Operations Team Application', url: 'https://forms.gle/bhv57KaTLdVehiDg9', pages: 'Help Us Build, Team' },
+                    { name: 'Student Registration', url: 'https://forms.gle/927FLPxgbi7ww78K9', pages: 'Contact, Join Network' },
+                    { name: 'Employer Registration', url: 'https://forms.gle/6DrH5bSRQAuPqE997', pages: 'Contact, For Recruiters' },
+                    { name: 'Feedback & Ideas Form', url: 'https://forms.gle/VqqeGB2EvyXym5UW7', pages: 'Help Us Build' },
+                    { name: 'Workshop Registration', url: 'https://forms.gle/a2iwwhsHKHMKBu9t9', pages: 'Contact (Event section)' },
+                    { name: 'Operations Team Application', url: 'https://forms.gle/uwmUJyDbyq5VVLUx7', pages: 'Help Us Build, Team' },
                   ].map((form, idx) => (
                     <div key={idx} className="flex items-center justify-between p-4 bg-slate-50 rounded-lg border border-slate-200 hover:border-green-300 transition-all">
                       <div className="flex-1">

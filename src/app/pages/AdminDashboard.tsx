@@ -107,11 +107,11 @@ export function AdminDashboard() {
 
   // All external links used in the platform
   const externalLinks = [
-    { name: 'Student Registration', url: 'https://forms.gle/BRnw51wzHxXp9jVS6', category: 'Forms', page: 'Contact, Join Network' },
-    { name: 'Employer Registration', url: 'https://forms.gle/71BLiGAPnbvDaFfD6', category: 'Forms', page: 'Contact, For Recruiters' },
-    { name: 'Feedback/Ideas Form', url: 'https://forms.gle/cRF4MUkGMzSsLocW8', category: 'Forms', page: 'Help Us Build' },
-    { name: 'Workshop Registration', url: 'https://forms.gle/KWnkAUwFTBeYgH4Z9', category: 'Forms', page: 'Contact' },
-    { name: 'Operations Team Application', url: 'https://forms.gle/bhv57KaTLdVehiDg9', category: 'Forms', page: 'Help Us Build, Team' },
+    { name: 'Student Registration', url: 'https://forms.gle/927FLPxgbi7ww78K9', category: 'Forms', page: 'Contact, Join Network' },
+    { name: 'Employer Registration', url: 'https://forms.gle/6DrH5bSRQAuPqE997', category: 'Forms', page: 'Contact, For Recruiters' },
+    { name: 'Feedback/Ideas Form', url: 'https://forms.gle/VqqeGB2EvyXym5UW7', category: 'Forms', page: 'Help Us Build' },
+    { name: 'Workshop Registration', url: 'https://forms.gle/a2iwwhsHKHMKBu9t9', category: 'Forms', page: 'Contact' },
+    { name: 'Operations Team Application', url: 'https://forms.gle/uwmUJyDbyq5VVLUx7', category: 'Forms', page: 'Help Us Build, Team' },
     { name: 'DH Nexus LinkedIn', url: 'https://www.linkedin.com/company/dh-nexus', category: 'Social', page: 'Multiple pages' },
     { name: 'DH Nexus Instagram', url: 'https://www.instagram.com/dh_nexus/', category: 'Social', page: 'Multiple pages' },
   ];

@@ -60,7 +60,7 @@ export function MentorshipPage() {
                   Looking for career guidance, portfolio feedback, or help navigating DH career paths? Apply now and we'll notify you when a mentor match becomes available.
                 </p>
                 <a
-                  href="https://forms.gle/bhv57KaTLdVehiDg9"
+                  href="https://forms.gle/uwmUJyDbyq5VVLUx7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-6 py-3 rounded-xl font-semibold transition-all text-sm"
@@ -79,7 +79,7 @@ export function MentorshipPage() {
                   Are you a DH professional, researcher, or industry practitioner? Volunteer as a mentor and help shape the next generation of Digital Humanities practitioners.
                 </p>
                 <a
-                  href="https://forms.gle/bhv57KaTLdVehiDg9"
+                  href="https://forms.gle/uwmUJyDbyq5VVLUx7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-700 hover:to-blue-700 text-white px-6 py-3 rounded-xl font-semibold transition-all text-sm"
@@ -142,7 +142,7 @@ export function MentorshipPage() {
               </ul>
               <div className="flex flex-wrap justify-center gap-3">
                 <a
-                  href="https://forms.gle/bhv57KaTLdVehiDg9"
+                  href="https://forms.gle/uwmUJyDbyq5VVLUx7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-white text-indigo-700 px-6 py-3 rounded-xl font-semibold text-sm hover:bg-indigo-50 transition-all"

@@ -45,7 +45,7 @@ export function ProjectsCaseStudies() {
             DH NEXUS is building a community space where researchers and practitioners can share projects, collaborate, and get feedback. Join us.
           </p>
           <a
-            href="https://forms.gle/bhv57KaTLdVehiDg9"
+            href="https://forms.gle/uwmUJyDbyq5VVLUx7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-indigo-700 px-6 py-3 rounded-xl font-semibold text-sm hover:bg-indigo-50 transition-all"

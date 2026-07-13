@@ -157,7 +157,7 @@ export function EventsOpportunities() {
             <p className="text-indigo-100 text-sm">Help us keep the community calendar accurate and up to date.</p>
           </div>
           <a
-            href="https://forms.gle/bhv57KaTLdVehiDg9"
+            href="https://forms.gle/uwmUJyDbyq5VVLUx7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-indigo-700 hover:bg-indigo-50 px-6 py-3 rounded-xl font-semibold text-sm transition-all whitespace-nowrap flex-shrink-0"

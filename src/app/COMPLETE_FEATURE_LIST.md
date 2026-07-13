@@ -608,11 +608,11 @@
 ## 🔗 EXTERNAL INTEGRATIONS
 
 ### Google Forms (5 Forms)
-1. **Student Registration**: `https://forms.gle/BRnw51wzHxXp9jVS6`
-2. **Employer Registration**: `https://forms.gle/71BLiGAPnbvDaFfD6`
-3. **Feedback & Ideas**: `https://forms.gle/cRF4MUkGMzSsLocW8`
-4. **Workshop Registration**: `https://forms.gle/KWnkAUwFTBeYgH4Z9`
-5. **Operations Team Application**: `https://forms.gle/bhv57KaTLdVehiDg9`
+1. **Student Registration**: `https://forms.gle/927FLPxgbi7ww78K9`
+2. **Employer Registration**: `https://forms.gle/6DrH5bSRQAuPqE997`
+3. **Feedback & Ideas**: `https://forms.gle/VqqeGB2EvyXym5UW7`
+4. **Workshop Registration**: `https://forms.gle/a2iwwhsHKHMKBu9t9`
+5. **Operations Team Application**: `https://forms.gle/uwmUJyDbyq5VVLUx7`
 
 ### Social Media Profiles
 - **LinkedIn**: `https://www.linkedin.com/company/dh-nexus`

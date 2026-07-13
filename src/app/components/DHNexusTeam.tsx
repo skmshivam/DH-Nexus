@@ -266,7 +266,7 @@ export function DHNexusTeam() {
               <Users className="w-8 h-8 text-slate-300 mb-3" />
               <p className="text-slate-500 text-sm font-semibold mb-1">Want to contribute?</p>
               <p className="text-slate-400 text-xs mb-4">Open to volunteers from any institution</p>
-              <a href="https://forms.gle/bhv57KaTLdVehiDg9" target="_blank" rel="noopener noreferrer"
+              <a href="https://forms.gle/uwmUJyDbyq5VVLUx7" target="_blank" rel="noopener noreferrer"
                 className="text-xs font-semibold text-indigo-600 hover:text-indigo-800 transition-colors flex items-center gap-1">
                 Apply <ArrowRight className="w-3 h-3" />
               </a>
@@ -280,7 +280,7 @@ export function DHNexusTeam() {
             <p className="font-semibold text-slate-900 mb-0.5">Join the DH NEXUS team</p>
             <p className="text-slate-500 text-sm">Open to volunteers, researchers, developers, and ambassadors from any university.</p>
           </div>
-          <a href="https://forms.gle/bhv57KaTLdVehiDg9" target="_blank" rel="noopener noreferrer"
+          <a href="https://forms.gle/uwmUJyDbyq5VVLUx7" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold rounded-xl transition-all text-sm whitespace-nowrap flex-shrink-0">
             Apply to Join
           </a>
